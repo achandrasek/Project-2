@@ -39,7 +39,7 @@ section {
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 5px; /* Optional: for rounded corners */
+  border-radius: 5px;
 }
 
 ul {
