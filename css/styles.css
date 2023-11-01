@@ -53,3 +53,8 @@ h1, h2 {
 p {
   margin-bottom: 20px;
 }
+
+.center_custom {
+  text-align: center;
+}
+
